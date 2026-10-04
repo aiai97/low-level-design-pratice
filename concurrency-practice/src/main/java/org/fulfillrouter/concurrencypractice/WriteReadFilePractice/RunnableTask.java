@@ -1,4 +1,4 @@
-package org.fulfillrouter.concurrencypractice.RunnablePractice;
+package org.fulfillrouter.concurrencypractice.WriteReadFilePractice;
 
 import java.io.*;
 import java.nio.file.Path;
